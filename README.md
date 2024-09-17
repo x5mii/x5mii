@@ -11,3 +11,6 @@ I'm a Computer Science student from Switzerland, passionate about programming an
 ### 🔭 What I'm working on:
 - 3D Plattformer developement in Unity
 - A VST plugin for music production
+
+### 📈 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5mii&layout=compact&theme=radical)
