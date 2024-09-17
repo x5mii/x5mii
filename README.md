@@ -9,9 +9,8 @@ I'm a Computer Science student from Switzerland, passionate about programming an
 - **Other Tools**: Git, Docker
 
 ### 🔭 What I'm working on:
-- Game development using Unity 🎮
-- Web development projects 🌐
-- Exploring new database technologies like Cassandra 🚀
+- Game developement in Unity
+
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x5mii&show_icons=true&theme=radical)
@@ -19,4 +18,3 @@ I'm a Computer Science student from Switzerland, passionate about programming an
 ### 📈 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5mii&layout=compact&theme=radical)
 
-Feel free to check out my projects or connect with me! 😄
