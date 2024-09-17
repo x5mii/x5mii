@@ -9,12 +9,5 @@ I'm a Computer Science student from Switzerland, passionate about programming an
 - **Other Tools**: Git, Docker
 
 ### 🔭 What I'm working on:
-- Game developement in Unity
-
-
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x5mii&show_icons=true&theme=radical)
-
-### 📈 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5mii&layout=compact&theme=radical)
-
+- 3D Plattformer developement in Unity
+- A VST plugin for music production
